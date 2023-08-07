@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ainaeliasy
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Javascript fullstack plateforme
+- 💞️ I’m looking to collaborate on Javascript fullstack plateforme or Laravel Ecosystem as a Fullstack
 - 📫 How to reach me ... ainaeliasy1227@gmail.com
 
 <!---
